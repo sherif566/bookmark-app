@@ -1,4 +1,4 @@
-# Bookmark App 🔖
+# Bookmark App (Root Academy Assignment 3)🔖
 
 A simple app to save and manage website bookmarks. Built with **HTML**, **Bootstrap**, and **JavaScript**.
 
